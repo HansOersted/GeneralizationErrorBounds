@@ -55,4 +55,3 @@ plt.show()
 # Output the computed values
 print(f"Spectral Complexity: {complexity}")
 print(f"P(c): {P_c}")
-print(f"Sum of P(c) (should be 1): {np.sum(P_c)}")
